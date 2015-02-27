@@ -1,0 +1,5 @@
+TARGETNAME=protect
+TARGETPATH=Output
+TARGETTYPE=DRIVER
+
+SOURCES= DriverEntry.c ADE32.c Detour.c AntiScreenshot.c BPHide.c  Toolset.c ModuleHide.c 
